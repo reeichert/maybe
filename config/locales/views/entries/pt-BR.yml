@@ -1,0 +1,14 @@
+---
+pt-BR:
+  entries:
+    create:
+      success: Lançamento criado
+    destroy:
+      success: Lançamento excluído
+    empty:
+      description: Tente adicionar um lançamento, editando filtros ou refinando sua pesquisa
+      title: Nenhum lançamento encontrado
+    loading:
+      loading: Carregando lançamentos...
+    update:
+      success: Lançamento atualizado 

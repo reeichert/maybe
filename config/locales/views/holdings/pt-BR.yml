@@ -1,0 +1,37 @@
+---
+pt-BR:
+  holdings:
+    cash:
+      brokerage_cash: Dinheiro da corretora
+    destroy:
+      success: Participação excluída
+    holding:
+      per_share: por ação
+      shares: "%{qty} ações"
+    index:
+      average_cost: Custo médio
+      holdings: Participações
+      name: Nome
+      new_holding: Nova transação
+      no_holdings: Nenhuma participação para mostrar.
+      return: Retorno total
+      weight: Peso
+    missing_price_tooltip:
+      description: Este investimento tem valores em falta e não foi possível calcular
+        seus retornos ou valor.
+      missing_data: Dados em falta
+    show:
+      avg_cost_label: Custo Médio
+      current_market_price_label: Preço Atual de Mercado
+      delete: Excluir
+      delete_subtitle: Isso excluirá a participação e todas as negociações associadas
+        nesta conta. Esta ação não pode ser desfeita.
+      delete_title: Excluir participação
+      history: Histórico
+      overview: Visão geral
+      portfolio_weight_label: Peso da Carteira
+      settings: Configurações
+      ticker_label: Código
+      trade_history_entry: "%{qty} ações de %{security} a %{price}"
+      total_return_label: Retorno Total
+      unknown: Desconhecido 
